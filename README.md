@@ -4,7 +4,7 @@ GitHub Repo Search Tool
 
 ## Description
 
-This is a GitHub respository search application that uses the GitHub search API. The user inputs a search term and the application displays the results of that query. The results can further be filtered by Language as well as sorted by Best Match (default mode) or by Stargazer Count. When a user clicks into one of the results, they are routed to a new page that shows further details on specific application.
+This is a GitHub repository search application that uses the GitHub search API. The user inputs a search term and the application displays the results of that query. The results can further be filtered by Language as well as sorted by Best Match (default mode) or by Stargazer Count. When a user clicks into one of the results, they are routed to a new page that shows further details on specific application.
 
 ### Technologies Used
 
