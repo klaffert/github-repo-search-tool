@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Here are steps to take to run this app:
 
-1. Clone the repo git clone
+1. Clone the repo git clone git@github.com:klaffert/github-repo-search-tool.git
 2. Run npm install to install NPM packages
 3. Run npm start
     * This will start the local development server and show you the app in your browser
