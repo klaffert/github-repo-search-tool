@@ -1,0 +1,58 @@
+.repo-cards {
+    border-bottom: 1px solid #CCC;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    border-radius: 0%;
+    padding-bottom: 1rem;
+}
+
+.card-header {
+    color: #0645AD;
+    background-color: white !important;
+    border-bottom: 0px !important;
+    margin: 0 0 6px 30px !important;
+    padding: 0px !important;  
+}
+
+.result-data {
+    margin-left: 30px;
+}
+
+.header {
+
+    padding-bottom: 12px;
+}
+.header-link {
+    /* background-color: none !important; */
+    margin: 0px;
+}
+
+.header-link.col {
+    padding: 0px !important;
+}
+
+.header-logo {
+    margin: 0px;
+}
+
+
+.search-results {
+    padding-left: 0px;
+    padding-top: 60px;
+    padding-right: 0px;
+    padding-bottom: 60px;
+}
+
+.card-metadata {
+    color: #999;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.divider-line {
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 12px;
+}

@@ -1,0 +1,37 @@
+.card-details {
+ border: 0px !important;
+
+}
+
+.card-body {
+    margin-top: 16px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.count-row {
+    text-align: center;
+}
+
+.repo-title {
+    color: #0869DA;
+}
+
+.backslash{
+    color: #999999;
+}
+
+.repo-details {
+    margin-bottom: 10px;
+}
+
+#language {
+    margin-bottom: 30px;
+}
+.badge-group {
+    margin: 4px;
+    background: #DDDDDD !important;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 300;
+}

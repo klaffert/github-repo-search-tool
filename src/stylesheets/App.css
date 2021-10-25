@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+html, body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.form-control, .form-select {
+  background-color: #FAFAFA !important;
+  border-color: #CCCCCC !important;
+}
+
+.input-group .btn {
+  background-color: #FAFAFA !important;
+  color: #999999 !important;
+  border-color: #CCCCCC !important;
+  border-right-width: 0 !important;
+}
+
+.search-box {
+  padding-left: 0 !important;
+}
+
+.search-box:focus {
+  box-shadow: none !important;
+  border-left: none !important;
+}

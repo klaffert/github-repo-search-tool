@@ -1,0 +1,28 @@
+.search-header {
+    padding-top: 60px;
+}
+
+span {
+    font-weight: 700;
+}
+
+.form-control, .form-select {
+    background-color: #FAFAFA !important;
+    border-color: #CCCCCC !important;
+  }
+  
+  .input-group .btn {
+    background-color: #FAFAFA !important;
+    color: #999999 !important;
+    border-color: #CCCCCC !important;
+    border-right-width: 0 !important;
+  }
+  
+  .search-box {
+    padding-left: 0 !important;
+  }
+  
+  .search-box:focus {
+    box-shadow: none !important;
+    border-left: none !important;
+  }
